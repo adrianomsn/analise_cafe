@@ -7,4 +7,6 @@ O objetivo desse projeto é analisar as motivações para as altas consecutivas 
 
 ![alt text](media_mensal_saca_cafe_12meses-1.png)
 Fonte: Dados de indicador de café arábica e robusta CEPEA/ESALQ. 
-[Acesse o banco de dados CEPEA/ESALQ aqui.](https://www.cepea.esalq.usp.br/br/indicador/cafe.aspx?utm_source=chatgpt.com) 
+
+
+[Acesse a fonte aqui](https://www.cepea.esalq.usp.br/br/indicador/cafe.aspx?utm_source=chatgpt.com) 
