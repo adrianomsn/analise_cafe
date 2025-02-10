@@ -3,8 +3,9 @@
 O objetivo desse projeto é analisar as motivações para as altas consecutivas do preço do café e outras commodities no mercado brasileiro.
 
 
-Resumo:
-Por quê o preço do café está tão absurdo? 
+##Resumo:
+
+###Por quê o preço do café está tão absurdo? 
 
 Essa foi a pergunta que me fiz  após ver o preço do café o dobro do que eu costumava comprar.
 
@@ -17,7 +18,7 @@ No gráfico podemos visualizar todos esses números com melhor clareza, podemos 
 Apesar de todos esses fatores o Brasil no mesmo período contava com um clima favorável a produção, o que ajudou a retardar um pouco dessa tendência de aumento acelerado. Porém, não durou muito tempo... consequência das mudanças climáticas recentes, as temperaturas no Brasil aumentaram bruscamente, afetando assim a última colheita de café. Colheita essa que ocorreu entre junho e agosto de 2024 e as mudanças de preço geralmente refletem mudanças 2 meses depois da colheita, possivelmente sendo o fenômeno que resultou na alta absurda de preço a partir de outubro de 2024.
 
 
-### Este gráfico abaixo demonstra a média mensal dos valores em reais dos preços da saca de Café arábico e robusto (60KG) no Brasil no período dos últimos 12 meses.
+### Média mensal dos valores em reais dos preços da saca de Café arábico e robusto (60KG) no Brasil no período dos últimos 12 meses.
 
 ![alt text](media_mensal_saca_cafe_12meses-1.png)
 Fonte: Dados de indicador de café arábica e robusta CEPEA/ESALQ. 
