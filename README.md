@@ -20,7 +20,7 @@ Apesar de todos esses fatores o Brasil no mesmo período contava com um clima fa
 
 ### Média mensal dos valores em reais dos preços da saca de Café arábico e robusto (60KG) no Brasil no período dos últimos 12 meses.
 
-![alt text](media_mensal_saca_cafe_12meses-1.png)
+![alt text](media_mensal_saca_cafe_12meses_sem_rotulos.png)
 Fonte: Dados de indicador de café arábica e robusta CEPEA/ESALQ. 
 
 
