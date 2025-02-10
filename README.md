@@ -3,9 +3,9 @@
 O objetivo desse projeto é analisar as motivações para as altas consecutivas do preço do café e outras commodities no mercado brasileiro.
 
 
-##Resumo:
+## Resumo:
 
-###Por quê o preço do café está tão absurdo? 
+### Por quê o preço do café está tão absurdo? 
 
 Essa foi a pergunta que me fiz  após ver o preço do café o dobro do que eu costumava comprar.
 
